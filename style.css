@@ -28,10 +28,14 @@ src: url(mine.ttf);
 	position: relative;
 	background-color: white;
 	width: 610px;
-	height: 1000px;
 	margin: 0 auto;
 	top: 200px;
-	padding: 50px;
+	padding: 100px;
+	padding-top: 0px;
+}
+
+.post {
+	padding-top: 100px;
 }
 
 .title {
@@ -48,4 +52,5 @@ src: url(mine.ttf);
 	font-family: helvetica;
 	top: 25px;
 	font-size: 21px;
+	line-height: 30px;
 }
